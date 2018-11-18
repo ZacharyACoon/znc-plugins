@@ -1,5 +1,5 @@
 """
-    Zachary A. Coon - cluelessperson
+    cluelessperson
     Requires: python-bitcoinlib by Peter Todd, that beautiful mofo
 
 """
